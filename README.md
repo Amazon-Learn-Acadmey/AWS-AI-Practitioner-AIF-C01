@@ -74,6 +74,5 @@ This is a suggested learning progression, not a mandatory certification sequence
 
 Combine official AWS exam preparation materials with practical exploration of AI concepts, generative AI applications, and responsible AI principles.
 
-- **Official AWS Resources**: Review the [AWS Certified AI Practitioner page](https://aws.amazon.com/certification/certified-ai-practitioner/) and the [official AIF-C01 exam guide](https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01/ai-practitioner-01.html).
 - **CertsGate**: Explore [AIF-C01 certification preparation resources](https://certsgate.com/exams/amazon/aif-c01) for supplementary study materials and practice questions.
 - **Practical AI Study**: Use the [Amazon Bedrock documentation](https://docs.aws.amazon.com/bedrock/) to explore foundation models, generative AI applications, and responsible AI implementation concepts.
